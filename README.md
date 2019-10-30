@@ -1,2 +1,3 @@
 # Hactoberfest_begin
-for PR and commits
+for hacktoberfest beginners looking for PR's and their first commits
+
